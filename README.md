@@ -14,4 +14,5 @@ It is known that AL performance has its ceiling - the classification rate of AL 
 Figure 1. Performance comparison on the Area under the Learning Curve for each stand-alone classifier
 
 At current stage, only one dataset has been used to evaluate the performance. It is a real-world dataset that measure the COVID19 swab tests against the routine blood test of 1736 entries. It has 31 regular blood test features that can be potentially trained to predict COVID19 outcomes. Each data entries has been imputed by deep-learning based imputer to prevent negative impact of results by missing feature values. Before training, feature reduction is concluded with a custom RFE (recursive feature elimination) process. 
+The Area under the curve (AUC) of ROC curve for each classifier indicates their classification rates respectively. Therefore, higher AUC suggests higher classifier performance. Without employing Active Learning algorithm, random forest have the best performance, reaching an accuracy of 0.88 based on the probability for correctly predicting the COVID19 outcome. 
 
