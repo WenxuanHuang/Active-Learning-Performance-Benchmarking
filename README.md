@@ -1,4 +1,4 @@
-# ML-for-COVID-19-dataset
+# Active-Learning-Performance-Benchmarking
 In this work, the performance of active-learning (based on logistic regression, random forest, gradient boost classifier, nearest neighbours and SVM) is benchmarked and compared. Employing multiple classifiers in a modularised manner help investigate the difference in performance when active learning is used in combination with these five classifiers. 
 ## Active learning methods and strategy
 ### Basic model classifier
