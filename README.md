@@ -1,1 +1,1 @@
-# Active learning sampling using expected error reduction with posterior loss attribution 
+# Using Maximal Correlation as a Regularizer for Model Unfairness Reduction in Machine Learning 
