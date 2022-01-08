@@ -1,4 +1,4 @@
-Two_yr_Recidivism,Number_of_Priors,score_factor,Age_Above_FourtyFive,Age_Below_TwentyFive,African_American,Female,Misdemeanor,Counfounding_Variable_1,Counfounding_Variable_2,Counfounding_Variable_3
+Two_yr_Recidivism,Number_of_Priors,score_factor,Age_Above_FourtyFive,Age_Below_TwentyFive,African_American,Female,Misdemeanor,Confounding_Variable_1,Confounding_Variable_2,Confounding_Variable_3
 0,0,0,1,0,0,0,0,0,0,1
 1,0,0,0,0,1,0,0,1,1,1
 1,4,0,0,1,1,0,0,1,0,0
